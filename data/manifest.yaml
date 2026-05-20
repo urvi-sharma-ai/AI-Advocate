@@ -1,0 +1,50 @@
+documents:
+  - file: Finance/Forex act.pdf
+    act_title: Foreign Exchange Management Act, 1999 (FEMA)
+    domain: Finance
+    act_version: FEMA_1999
+    effective_date: 1999-06-01
+
+  - file: Finance/Income_Tax_Act_2025_as_amended_by_FA_Act_2026.pdf
+    act_title: Income Tax Act, 2025
+    domain: Finance
+    act_version: IT_2025
+    effective_date: 2026-04-01
+    supersedes: IT_1961
+
+  - file: Finance/The-companies-act.pdf
+    act_title: Companies Act, 2013
+    domain: Finance
+    act_version: CA_2013
+    effective_date: 2013-09-12
+
+  - file: Finance/prohibition-of-insider-trading.pdf
+    act_title: SEBI (Prohibition of Insider Trading) Regulations, 2015
+    domain: Finance
+    act_version: SEBI_PIT_2015
+    effective_date: 2015-05-15
+
+  - file: Land/RERA act.pdf
+    act_title: Real Estate (Regulation and Development) Act, 2016
+    domain: Land
+    act_version: RERA_2016
+    effective_date: 2016-05-01
+
+  - file: Land/property-registration-act.pdf
+    act_title: Registration Act, 1908
+    domain: Land
+    act_version: REG_1908
+    effective_date: 1908-03-01
+
+  - file: Land/transfer-of-property-act.pdf
+    act_title: Transfer of Property Act, 1882
+    domain: Land
+    act_version: TPA_1882
+    effective_date: 1882-07-01
+
+# Optional: add legacy Income Tax Act, 1961 when you have the PDF.
+# - file: Finance/Income_Tax_Act_1961.pdf
+#   act_title: Income Tax Act, 1961
+#   domain: Finance
+#   act_version: IT_1961
+#   effective_date: 1961-04-01
