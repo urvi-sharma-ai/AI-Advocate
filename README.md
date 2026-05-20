@@ -42,6 +42,18 @@ This reads `data/manifest.yaml`, loads PDFs in `data/`, chunks them with **secti
 uv run streamlit run src/ai_advocate/presentation/streamlit_app.py
 ```
 
+## Run tests
+
+```bash
+uv run pytest
+```
+
+## Run via CLI
+
+```bash
+uv run ai-advocate
+```
+
 ## Project layout (clean architecture)
 
 - `src/ai_advocate/domain/`: core models (documents, chunks, citations)
