@@ -6,6 +6,7 @@
 .DS_Store
 .cursor/
 .venv
+.env
 __pycache__/
 build/
 data/.DS_Store
